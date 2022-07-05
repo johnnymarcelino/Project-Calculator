@@ -4,7 +4,12 @@
 
 # Project: Calculator
 
-# Stating at: 05/07/2022 at 14:03 hour
+# Beginning at: 05/07/2022 at 14:03 hour
 
 # By Johnny Marcelino
 
+# Firstly
+
+# Ask user which type of operation wish to use
+
+numberFirst = input("Which operation would like to use ? ")
