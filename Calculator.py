@@ -12,4 +12,4 @@
 
 # Ask user which type of operation wish to use
 
-numberFirst = input("Which operation would like to use ? ")
+operation = input("Which operation would like to use ? ")
