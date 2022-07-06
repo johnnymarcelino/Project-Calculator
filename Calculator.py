@@ -48,3 +48,4 @@ elif(operation == "%"):
 
 # Let's do an advanced calculator
 
+operation = str(input("What type of operation would you like to do ? "))
