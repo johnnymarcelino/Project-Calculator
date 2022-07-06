@@ -51,3 +51,7 @@ elif(operation == "%"):
 # Beginning at: 06/07/2022 at 19:10 hour
 
 operation = str(input("What type of operation would you like to do ? "))
+
+# Testing
+# print(operation)
+
